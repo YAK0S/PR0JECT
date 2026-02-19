@@ -1,1 +1,7 @@
 
+name: Build Android
+on:
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
