@@ -1,0 +1,10 @@
+{
+  "expo": {
+    "name": "Wrench Time",
+    "slug": "wrench-time",
+    "version": "1.0.0",
+    "android": {
+      "package": "com.suaempresa.wrenchtime"
+    }
+  }
+}
