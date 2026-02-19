@@ -4,7 +4,12 @@
     "slug": "wrench-time",
     "version": "1.0.0",
     "android": {
-      "package": "com.suaempresa.wrenchtime"
+      "package": "com.yak0s.wrenchtime"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "COLOCAR_AQUI_DEPOIS"
+      }
     }
   }
 }
